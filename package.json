@@ -4,7 +4,7 @@
   "description": "Servicios rest para el LandingPage de SAMI",
   "main": "server.js",
   "scripts": {
-    "start": "nodemon server.js"
+    "start": "node server.js"
   },
   "keywords": [
     "nodejs",

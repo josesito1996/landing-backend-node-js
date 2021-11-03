@@ -1,0 +1,25 @@
+{
+  "name": "backend-landing",
+  "version": "1.0.0",
+  "description": "Servicios rest para el LandingPage de SAMI",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "mysql",
+    "restapi"
+  ],
+  "author": "jcastilloc",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-myconnection": "^1.0.4",
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.14"
+  }
+}
